@@ -1,6 +1,6 @@
 Name:		texlive-yinit-otf
 Version:	40207
-Release:	1
+Release:	2
 Summary:	OTF conversion of Yannis Haralambous' Old German decorative initials
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yinit-otf
