@@ -3,7 +3,7 @@ Version:	40207
 Release:	2
 Summary:	OTF conversion of Yannis Haralambous' Old German decorative initials
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yinit-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yinit-otf
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yinit-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yinit-otf.doc.r%{version}.tar.xz
